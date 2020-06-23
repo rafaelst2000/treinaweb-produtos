@@ -16,7 +16,7 @@ Projeto desenvolvido durante as aulas de **Tópios Avançados**, utilizando as t
 
 ## **:rocket: Objetivo**
 
-O projeto tem como objetivo praticar animações de CSS com React, além de Code Spliting,Lazy Loading e Internacionalização com React Intl. Consiste em um simples App para cadastro e vizualização de produtos.
+O projeto tem como objetivo praticar animações de CSS com React, além de Code Spliting, Lazy Loading e Internacionalização com React Intl. Consiste em um simples App para cadastro e vizualização de produtos.
 
 ### **Executando o Projeto**
 
